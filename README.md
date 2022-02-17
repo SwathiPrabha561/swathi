@@ -1,3 +1,2 @@
 # swathi
-This is my repository
-welcome
+welcome to my repo
